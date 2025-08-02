@@ -1,0 +1,44 @@
+[
+  {
+    "ref": "BB001",
+    "title": "BERSERK BONES T-SHIRT",
+    "price_before": "199 د.م",
+    "price_after": "159 د.م",
+    "description": "<strong>Berserk Bones</strong><br>High-quality <em>cotton</em> print.<ul><li>Unisex</li><li>Comfortable fit</li></ul>",
+    "images": [
+      "images/BB1.jpeg",
+      "images/BB2.jpeg",
+      "images/BB3.jpeg",
+      "images/BB4.jpeg"
+    ],
+    "collection": "Drop 1 : Berserk"
+  },
+  {
+    "ref": "BH002",
+    "title": "BERSERK GUTS T-SHIRT",
+    "price_before": "199 د.م",
+    "price_after": "159 د.م",
+    "description": "<strong>Berserk Guts</strong><br>Detailed character print.<br><em>100% cotton</em>",
+    "images": [
+      "images/BH1.jpeg",
+      "images/BH2.jpeg",
+      "images/BH3.jpeg",
+      "images/BH4.jpeg"
+    ],
+    "collection": "Drop 2 : Berserk"
+  },
+  {
+    "ref": "BS003",
+    "title": "BERSERK SKULL T-SHIRT",
+    "price_before": "199 د.م",
+    "price_after": "159 د.م",
+    "description": "<strong>Skull Edition</strong><br>Dark and unique style.<br>Perfect for fans.",
+    "images": [
+      "images/BS1.jpeg",
+      "images/BS2.jpeg",
+      "images/BS3.jpeg",
+      "images/BS4.jpeg"
+    ],
+    "collection": "Drop 1 : Berserk"
+  }
+]

@@ -1,0 +1,120 @@
+    /* Custom styles */
+        body {
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+       
+        /* Free delivery message */
+        .free-delivery-banner-content {
+           
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            font-size: 24px;
+            font-weight: bold;
+            animation: scroll 15s linear infinite;
+        }
+
+        /* Scrolling effect for delivery message */
+        @keyframes scroll {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+        .free-delivery-banner {
+            background-color: #C82828;
+        }
+ 
+        /* Navigation menu */
+        .navbar {
+            background-color: #333;
+        }
+
+        .navbar-nav .nav-link {
+            color: white !important;
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #f39c12 !important;
+        }
+
+        .product-card {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin: 15px 0;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .product-card:hover {
+            transform: scale(1.05);
+        }
+
+        .product-card img {
+            width: 100%;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .product-card .card-body {
+            padding: 15px;
+        }
+
+        .product-title {
+            font-weight: bold;
+        }
+
+        .btn-buy-now {
+            background-color: #333;
+            color: #fff;
+            border: none;
+            width: 100%;
+            padding: 10px;
+            cursor: pointer;
+        }
+
+        .btn-buy-now:hover {
+            background-color: #444;
+        }
+
+        .price {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            font-size: 16px;
+            font-weight: 700;
+        }
+.navbar-toggler-icon {
+    color: #f4f4f4;
+}
+        /* Footer styles */
+        .footer {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+        }
+
+        .footer a {
+            color: #f39c12;
+            text-decoration: none;
+        }
+
+        a.page-link{
+                        color: #f39c12;
+            text-decoration: none;
+         }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        .footer .footer-links {
+            margin-bottom: 10px;
+        }
+
+        .nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
